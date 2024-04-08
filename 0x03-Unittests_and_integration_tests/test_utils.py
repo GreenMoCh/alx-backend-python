@@ -88,4 +88,3 @@ class TestMemorize(unittest.TestCase):
 
         self.assertEqual(result1, 42)
         self.assertEqual(result2, 42)
-        
